@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Arta Tri Pamuda
-- 👀 I’m interested in Full Stack Developer
-- 🌱  
-  - Backend  : Codeigniter, Laravel, NodeJs
-  - Frontend : VueJs, ReactJs
+- 👀 I’m a Full Stack Developer with 6+ years experience
+- 🌱  My Super Power
+  - Backend  : PHP, Codeigniter, Laravel, NodeJs, Go
+  - Frontend : VueJs, ReactJs, Bootstrap, Tailwind
   - Database : MySQL, PostgreSQL
 - 📫 How to reach me
      Email : pamuda.id@gmail.com
